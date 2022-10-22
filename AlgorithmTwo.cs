@@ -27,7 +27,7 @@ namespace Algorithm2
                                 break;
                             }
                         }
-                        if (result == false) check_list.Add(moja_lista[i]); // resultat jest false, poniewaz znaczy to ze nie wykonal sie poprzedni if, czyli nie nachodza sie
+                        if (result == false) check_list.Add(moja_lista[i]); // resultat jest false, poniewaz znaczy to ze nie wykonal sie poprzedni if, czyli nie nachodza siee
                     }
                     result = false; // ustawiamy resultat false w razie jakby if wszedl i resultat bylby true
                 }
